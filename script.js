@@ -4,5 +4,5 @@ const b=9
 
 
 const func1=(a, b)=>{
-   return a+b
+   alert(a+b)
 }
