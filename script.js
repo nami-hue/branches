@@ -7,7 +7,7 @@ const func1=(a, b)=>{
 
    alert("func 1 in branch b3_pr")
 
-    return a+b+c
+    return `a:${a}, b:${b}`
 }
 
 alert(func1())
